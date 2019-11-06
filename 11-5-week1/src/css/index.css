@@ -1,0 +1,46 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* 
+
+rem布局  
+vw + rem布局
+*/
+
+html { 
+  /* // rem 根据跟节点字体大小变化而变化 1vw = 1% */
+  /* font-size: calc(100 / 750 * 100vw); */
+  font-size: 13.333333vw;
+}
+
+html,body {
+  width: 100%;
+  height: 100%;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.header,footer {
+  /* 45px 375px   45px * 2 = .90px */
+  width: 100%;
+  height: .9rem;
+  background: red;
+}
+.main {
+  width: 100%;
+  flex:1;
+  overflow: auto;
+}
+
+.box {
+  width: 1rem;
+  height: 1rem;
+  background: red;
+}
