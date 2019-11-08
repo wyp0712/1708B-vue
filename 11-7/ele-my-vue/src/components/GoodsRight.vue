@@ -1,7 +1,8 @@
 <template>
      <ul class="list-item">
        <li v-for="(item) in list" :key="item.name">
-         <h2> {{item.name}} </h2>
+         <h2 class="floor" ref="floor"> {{item.name}} </h2>
+
          <template v-for="(val, ind) in item.foods">
            <a :key="ind">
              <dl>
@@ -15,7 +16,7 @@
              </dl>
 
              <div class="count-box">
-                <span @click="removeItem(ind)"> - </span>
+                <span @click="removeItem(val, ind)"> - </span>
                 <b> {{val.count}} </b>
                 <span @click="addItem(val)">+</span>  
               </div> 
@@ -34,7 +35,8 @@ export default {
     return {
       list: [],
       cartData: [],
-      totalCount: 0
+      totalCount: 0,
+      heightArr: []
     }
   },
   watch: {
@@ -44,6 +46,20 @@ export default {
   },
   created() {
     this.addCount()
+  },
+  mounted() {
+    // this.$nextTick(function () {
+      // console.log(this.$refs, 'resf')
+      let arr = []
+      if (this.$refs.floor) {
+        this.$refs.floor.map(item => {
+          arr.push(item.offsetTop) 
+        })
+        // console.log(arr, 'arr--------arr')
+      }
+      this.$emit('toGoodsRight', arr)
+
+    // })
   },
   methods: {
     addCount() {
@@ -65,38 +81,27 @@ export default {
       })
     },
     // 删除函数
-    removeItem(index) {
-      console.log(index, 'index------------------index')
-      this.list.forEach(item => {
-        console.log(item.foods[index], 'arr--foods')
-        // item.foods[index].count--;
-      })
+    removeItem(item, index) {
+      item.count--;
+      // console.log(this.cartData[index], 'index---------------------------------')
     },
-    // 添加函数
-    addItem(item) {
-      item.count++;
-
+    countFn(item) {
       let goods = this.cartData.find(val => val.name === item.name)
       if (goods) {
         goods.count ++
       } else {
-        this.cartData.push({
-          count: 1,
-          img: item.image,
-          name: item.name,
-          description: item.description,
-          sellCount: item.sellCount,
-          rating: item.rating,
-          price: item.price
-        })
+        this.cartData.push(item)
       }
+    },
+    // 添加函数
+    addItem(item) {
+      item.count++;
+      this.countFn(item)
 
       this.getTotalCount()
-
-      this.$emit('toGoodsItem', this.totalCount)
-    },
-
-  },
+      this.$emit('toGoodsItem', this.cartData)
+    }
+  }
 }
 </script>
 <style lang="scss">

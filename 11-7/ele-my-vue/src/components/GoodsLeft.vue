@@ -16,6 +16,7 @@ export default {
   },
   methods: {
     bindLeftClick(index) {
+      // console.log(index, 'index')
       this.$emit('toGoodsLeft', index)
     }
   },

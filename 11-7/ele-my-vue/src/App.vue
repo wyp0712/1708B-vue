@@ -7,13 +7,11 @@
      <NavBar @toNavBar="toNavBar" />
 
      <div class="app-main">
-        <!-- <GoodsItem />
-        <EvaluateCom />
-        <MerchantCom /> -->
-        <component :is="componentId" @toFooterBar="toFooterBar"  :eleData="eleData"></component>
+        <component :is="componentId" :floorIndex="floorIndex" @toParent="toParent" @toFooterBar="toFooterBar"  :eleData="eleData"></component>
      </div>
      <div class="app-footer">
-       <FooterBar :totalCount="totalCount"/>
+       <!-- {{getTotalPrice}} -->
+       <FooterBar :totalCount="getTotalPrice"/>
      </div>
   </div>
 </template>
@@ -27,12 +25,12 @@
  子父传参数： 
    子：this.$emit('自定义事件名字', '你要传的值')
    父：组件标签上进行监听 <NavBar @toNavBar="toNavBar" /> 并且在methods中定义函数，拿到数据
-
-
 */ 
 import HeaderBar from './components/HeaderBar'   // 头部组件
 import FooterBar from './components/FooterBar'   // 尾部组件
 import NavBar from './components/NavBar'        // 导航组件
+
+import Students from './components/student'
 
 import GoodsItem from './components/GoodsItem' // 商品组件
 import EvaluateCom from './components/Evaluate' // 评价组件
@@ -43,10 +41,13 @@ export default {
     return {
       componentId: 'GoodsItem',
       eleData: {},
-      totalCount: 0
+      totalCount: 0,
+      cartList: [],
+      floorIndex: 0
     }
   },
   components: {
+    Students,
     HeaderBar,
     FooterBar,
     NavBar,
@@ -57,11 +58,23 @@ export default {
   created() {
     this.getEleData()
   },
+  computed: {
+    getTotalPrice() {
+      return this.cartList.reduce((prev, next) => {
+        return prev + next.count 
+      }, 0)
+    }
+  },
   methods: {
     // 监听右边组件中数量的增减
-    toFooterBar(count) {
-      this.totalCount = count
+    toFooterBar(cartData) {
+      // console.log(cartData, 'carrdata')
+      this.cartList = cartData
       //  console.log(count, 'count------count') 
+    },
+    toParent(ind) {
+      // console.log(ind, 'ind-------ind')
+      this.floorIndex = ind
     },
     // 获取数据函数
     getEleData() {
@@ -71,7 +84,7 @@ export default {
       })
     },
     toNavBar(ind) {
-      console.log(ind, '我是子元素传过来的下标')
+      // console.log(ind, '我是子元素传过来的下标')
       switch(ind) {
         case 0:
           this.componentId = 'GoodsItem'

@@ -4,7 +4,7 @@
       <GoodsLeft :leftArr="leftArr" @toGoodsLeft="toGoodsLeft"/>
     </div>
     <div class="right">
-      <GoodsRight :eleData="eleData" @toGoodsItem="toGoodsItem"/>
+      <GoodsRight @toGoodsRight="toGoodsRight" :eleData="eleData" @toGoodsItem="toGoodsItem"/>
     </div>
   </div>
 </template>
@@ -13,12 +13,14 @@ import GoodsLeft from './GoodsLeft'
 import GoodsRight from './GoodsRight'
 export default {
   props: {
-    eleData: Object
+    eleData: Object,
+    floorIndex: Number
   },
   data() {
     return {
       leftArr: [],
-      rightArr: {}
+      rightArr: {},
+      floorHeight: []
     }
   },
   components: {
@@ -29,6 +31,9 @@ export default {
     eleData(v) {
       // console.log(v.goods, 'v--------我是watch监听到的值')
       this.getItemdata(v)
+    },
+    toGoodsRight(v) {
+      // console.log(v, 'v---------v')
     }
   },
   created() {
@@ -37,16 +42,26 @@ export default {
       this.getItemdata(this.eleData)
     }
   },
-  mounted() {},
+  mounted() {
+
+  },
   methods: {
-    toGoodsItem(totalCount) {
+    toGoodsRight(heightArr) {
+      // console.log(heightArr, 'heightArr')
+      this.floorHeight = heightArr;
+    },
+    toGoodsItem(cartData) {
       // console.log(totalCount, '总数量--------') 
-      this.$emit('toFooterBar', totalCount)
+      this.$emit('toFooterBar', cartData)
     },
     // 自定义事件接收参数
     toGoodsLeft(ind) {
       // 根据子组件中传过来的下标匹配到的值
       // this.rightArr = this.eleData.goods[ind]
+      // this.$emit('toParent', ind)
+      let rightDom = document.querySelector('.right')
+      console.log(this.floorHeight, this.floorIndex, this.floorHeight[ind], 'rightDom----------dom')
+      rightDom.scrollTop = this.floorHeight[ind] - 190
     },
     // 获取数据
     getItemdata(data) { // 处理左边组件的数据
@@ -71,6 +86,7 @@ export default {
     .right {
       flex:7;
       overflow: auto;
+      scroll-behavior: smooth;
     }
   }
 </style>
