@@ -1,19 +1,26 @@
 <template>
   <div id="app">
-     <header>
-       
-     </header>
+     <ToDoList /> 
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
-  }
+    // ToDoList
+  },
+  created() {
+    this.getCartData()
+  },
+  methods: {
+    getCartData() {
+      this.$http.get('/api/list').then(res => {
+        console.log(res.data.list.UserData, 'res')
+      })
+    }
+  },
 }
 </script>
 

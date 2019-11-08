@@ -1,4 +1,4 @@
-# my-ele-vue
+# student-cart
 
 ## Project setup
 ```

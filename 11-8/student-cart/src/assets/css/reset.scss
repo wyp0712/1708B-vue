@@ -79,8 +79,6 @@ video,
 input {
     margin: 0;
     padding: 0;
-    border: none;
-    outline: 0;
     font-family: STHeitiSC-Light;
     font: inherit;
     vertical-align: baseline;
@@ -163,10 +161,7 @@ img {
 
 input,
 textarea {
-    border: none;
-    background: none;
-    outline: none;
-    -webkit-appearance: none;
+    
 }
 
 * {
