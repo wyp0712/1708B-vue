@@ -1,30 +1,30 @@
 <template>
-     <ul class="list-item">
-       <li v-for="(item) in list" :key="item.name">
-         <h2 class="floor" ref="floor"> {{item.name}} </h2>
+  <ul class="list-item">
+    <li v-for="(item) in list" :key="item.name">
+      <h2 class="floor" ref="floor"> {{item.name}} </h2>
 
-         <template v-for="(val, ind) in item.foods">
-           <a :key="ind">
-             <dl>
-               <dt><img :src="val.image" alt=""> </dt>
-               <dd>
-                  <p class="name">{{val.name}}</p>
-                  <p class="description"> {{val.description}} </p>
-                  <p class="sellCount">月售 {{val.sellCount}}份 好评率:{{val.rating}} </p>
-                  <p class="price">¥{{val.price}} </p>
-               </dd>
-             </dl>
+      <template v-for="(val, ind) in item.foods">
+        <a :key="ind">
+          <dl>
+            <dt><img :src="val.image" alt=""> </dt>
+            <dd>
+              <p class="name">{{val.name}}</p>
+              <p class="description"> {{val.description}} </p>
+              <p class="sellCount">月售 {{val.sellCount}}份 好评率:{{val.rating}} </p>
+              <p class="price">¥{{val.price}} </p>
+            </dd>
+          </dl>
 
-             <div class="count-box">
-                <span @click="removeItem(val, ind)"> - </span>
-                <b> {{val.count}} </b>
-                <span @click="addItem(val)">+</span>  
-              </div> 
-           </a>
-         </template>
-          
-       </li>
-     </ul>
+          <div class="count-box">
+            <span @click="removeItem(val, ind)"> - </span>
+            <b> {{val.count}} </b>
+            <span @click="addItem(val)">+</span>  
+          </div> 
+        </a>
+      </template>
+      
+    </li>
+  </ul>
 </template>
 <script>
 export default {
@@ -55,7 +55,6 @@ export default {
         this.$refs.floor.map(item => {
           arr.push(item.offsetTop) 
         })
-        // console.log(arr, 'arr--------arr')
       }
       this.$emit('toGoodsRight', arr)
 

@@ -1,0 +1,2776 @@
+{
+  "data": {
+    "currentPage": 3,
+    "hasMore": false,
+    "pageModules": [
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180919/0c1381a7-cf6f-4359-af13-83c95de0edee_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "长城干红葡萄酒一星 750ml",
+                "skuId": 1000367136
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 4580,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 7800,
+              "showTitle": false,
+              "name": "长城干红葡萄酒一星 750ml",
+              "sku": 1000367136,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180919/0c1381a7-cf6f-4359-af13-83c95de0edee_360x360H",
+            "resource": "1000367136",
+            "sort": 1,
+            "spId": 1000367136,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20181122/8b7c4531-ccad-4fa4-a538-0113601c399d_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "雪花勇闯天涯啤酒8度 330ml*6",
+                "skuId": 1000360037
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1910,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 1,
+              "price": 2940,
+              "showTitle": false,
+              "name": "雪花勇闯天涯啤酒8度 330ml*6",
+              "sku": 1000360037,
+              "stock": 0,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20181122/8b7c4531-ccad-4fa4-a538-0113601c399d_360x360H",
+            "resource": "1000360037",
+            "sort": 2,
+            "spId": 1000360037,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 2,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180912/439f4396-5d1a-4c79-8d48-be437363f4e7_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "青岛啤酒清爽8度 500ml",
+                "skuId": 1000360061
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 330,
+              "price": 520,
+              "showTitle": false,
+              "sell": false,
+              "videoInfo": [],
+              "name": "青岛啤酒清爽8度 500ml",
+              "sku": 1000360061,
+              "skuType": 1,
+              "stock": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180912/439f4396-5d1a-4c79-8d48-be437363f4e7_360x360H",
+            "resource": "1000360061",
+            "sort": 3,
+            "spId": 1000360061,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 128,
+        "groupFeature": {
+          "titleNew": "楼层单品-饮料",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层单品-饮料",
+          "ratio": 1
+        },
+        "moduleType": 128,
+        "name": "楼层单品-饮料",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 49
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180919/7e79b5b1-f3d8-45e3-9d70-56a16deb936d_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "奥利奥夹心饼干 轻甜味 116g",
+                "skuId": 1000885028
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 480,
+              "price": 650,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "奥利奥夹心饼干 轻甜味 116g",
+              "sku": 1000885028,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180919/7e79b5b1-f3d8-45e3-9d70-56a16deb936d_360x360H",
+            "resource": "1000885028",
+            "sort": 1,
+            "spId": 1000885028,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180914/7122418a-a75b-4d72-84f3-f5395095dd29_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "达利好吃点香脆核桃饼干 108g",
+                "skuId": 1000700035
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 280,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 400,
+              "showTitle": false,
+              "name": "达利好吃点香脆核桃饼干 108g",
+              "sku": 1000700035,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180914/7122418a-a75b-4d72-84f3-f5395095dd29_360x360H",
+            "resource": "1000700035",
+            "sort": 2,
+            "spId": 1000700035,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180912/3cd7016f-c75f-4b08-83a3-3b54b33e175d_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "新家园烤馍锅巴 75g 口味随机",
+                "skuId": 1000360537
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 240,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "新家园烤馍锅巴 75g 口味随机",
+              "sku": 1000360537,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180912/3cd7016f-c75f-4b08-83a3-3b54b33e175d_360x360H",
+            "resource": "1000360537",
+            "sort": 3,
+            "spId": 1000360537,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 128,
+        "groupFeature": {
+          "titleNew": "楼层单品-休食",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层单品-休食",
+          "ratio": 1
+        },
+        "moduleType": 128,
+        "name": "楼层单品-休食",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 50
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "dataType": 2,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201908/aa77cb57-eed9-45c7-bf8d-75be5a38c940_750H",
+            "resource": "app://category?selectedBusinessCode=1&firstCategoryId=12127&secondCategoryId=12128&@animate=null&@jump=true&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573633440655",
+            "sort": 1,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 146,
+        "groupFeature": {
+          "heightWideRatio": 0.24,
+          "titleNew": "楼层图-家居助手",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层图-家居助手",
+          "ratio": 1
+        },
+        "moduleType": 146,
+        "name": "楼层图-家居助手",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 51
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20181101/53a3807f-ca97-47cf-b8d5-9b79baa0ddac_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "阿道夫精油轻柔洗发乳液 800g",
+                "skuId": 1000850041
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 13800,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "阿道夫精油轻柔洗发乳液 800g",
+              "sku": 1000850041,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20181101/53a3807f-ca97-47cf-b8d5-9b79baa0ddac_360x360H",
+            "resource": "1000850041",
+            "sort": 1,
+            "spId": 1000850041,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20190426/d3aa3787-a09f-469e-a88e-2775844f6ab0_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "阿道夫精油沐浴原液 500ml",
+                "skuId": 1001060779
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 9800,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "阿道夫精油沐浴原液 500ml",
+              "sku": 1001060779,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20190426/d3aa3787-a09f-469e-a88e-2775844f6ab0_360x360H",
+            "resource": "1001060779",
+            "sort": 2,
+            "spId": 1001060779,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171228/fb0dcfc8-6bdc-4b16-9ce9-9f02cf5d74ab_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "阿道夫植萃精华护发乳液 500ml",
+                "skuId": 1001060772
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 8800,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "阿道夫植萃精华护发乳液 500ml",
+              "sku": 1001060772,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171228/fb0dcfc8-6bdc-4b16-9ce9-9f02cf5d74ab_360x360H",
+            "resource": "1001060772",
+            "sort": 3,
+            "spId": 1001060772,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 128,
+        "groupFeature": {
+          "titleNew": "楼层单品-个人洗护",
+          "margin": 2,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层单品-个人洗护",
+          "ratio": 1
+        },
+        "moduleType": 128,
+        "name": "楼层单品-个人洗护",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 52
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180313/e7a237fa-c479-4a54-9598-936340d9a870_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "维达抽取式面巾纸3层 130抽*6包",
+                "skuId": 1000359498
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1310,
+              "price": 2190,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "维达抽取式面巾纸3层 130抽*6包",
+              "sku": 1000359498,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180313/e7a237fa-c479-4a54-9598-936340d9a870_360x360H",
+            "resource": "1000359498",
+            "sort": 1,
+            "spId": 1000359498,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180313/1c1d619f-d76a-4947-a266-c78565c92a8a_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "维达超韧7张手帕纸4层 24包",
+                "skuId": 1000359397
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 990,
+              "price": 1450,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "维达超韧7张手帕纸4层 24包",
+              "sku": 1000359397,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180313/1c1d619f-d76a-4947-a266-c78565c92a8a_360x360H",
+            "resource": "1000359397",
+            "sort": 3,
+            "spId": 1000359397,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20190722/2b2a20df-6d54-49e6-9cd0-89a2f941f248_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "心相印冬已有芯卷纸3层 180g*10卷 新老包装随机",
+                "skuId": 1000359460
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 2290,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 3490,
+              "showTitle": false,
+              "name": "心相印冬已有芯卷纸3层 180g*10卷 新老包装随机",
+              "sku": 1000359460,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20190722/2b2a20df-6d54-49e6-9cd0-89a2f941f248_360x360H",
+            "resource": "1000359460",
+            "sort": 4,
+            "spId": 1000359460,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 128,
+        "groupFeature": {
+          "titleNew": "楼层单品-家庭清洁",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层单品-家庭清洁",
+          "ratio": 1
+        },
+        "moduleType": 128,
+        "name": "楼层单品-家庭清洁",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 53
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20191017/464a6da9-f967-40d2-9d99-01d4fcc75466_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "汰渍洁净熏香洗衣粉 3.8kg",
+                "skuId": 1000809615
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 4990,
+              "sell": true,
+              "videoInfo": [],
+              "promotionDisplayLable": "优惠券",
+              "skuType": 1,
+              "wareStatus": 0,
+              "showTitle": false,
+              "name": "汰渍洁净熏香洗衣粉 3.8kg",
+              "sku": 1000809615,
+              "stock": 10,
+              "promotionList": [
+                {
+                  "subTypeName": "优惠券",
+                  "type": 2
+                }
+              ],
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20191017/464a6da9-f967-40d2-9d99-01d4fcc75466_360x360H",
+            "resource": "1000809615",
+            "sort": 1,
+            "spId": 1000809615,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180313/23226560-72dd-46d8-a8d2-8dad373f1df8_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "好爸爸Kispa天然熏香洗衣液 2.38kg*2",
+                "skuId": 1000359360
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 6990,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 8280,
+              "showTitle": false,
+              "name": "好爸爸Kispa天然熏香洗衣液 2.38kg*2",
+              "sku": 1000359360,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180313/23226560-72dd-46d8-a8d2-8dad373f1df8_360x360H",
+            "resource": "1000359360",
+            "sort": 2,
+            "spId": 1000359360,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180918/0e53f128-339c-46e6-b669-d81932d210bd_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "超能植翠柔顺洗衣液 2.5kg+2.5kg 新老包装随机",
+                "skuId": 1000376917
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 10700,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "超能植翠柔顺洗衣液 2.5kg+2.5kg 新老包装随机",
+              "sku": 1000376917,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180918/0e53f128-339c-46e6-b669-d81932d210bd_360x360H",
+            "resource": "1000376917",
+            "sort": 3,
+            "spId": 1000376917,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 128,
+        "groupFeature": {
+          "titleNew": "楼层单品-家清用具",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层单品-家清用具",
+          "ratio": 1
+        },
+        "moduleType": 128,
+        "name": "楼层单品-家清用具",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 54
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180313/e0a970ce-8d8c-4beb-8a41-87fbca384d06_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "公牛6位带开关插座GN-S1330 1.8m",
+                "skuId": 1000359246
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 2990,
+              "price": 5490,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "公牛6位带开关插座GN-S1330 1.8m",
+              "sku": 1000359246,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180313/e0a970ce-8d8c-4beb-8a41-87fbca384d06_360x360H",
+            "resource": "1000359246",
+            "sort": 2,
+            "spId": 1000359246,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20190726/33365a85-4aad-45a0-90dc-21b2867a8a94_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "爱之佳一次性塑碗 490ml*20只",
+                "skuId": 1000950323
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 410,
+              "price": 690,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "爱之佳一次性塑碗 490ml*20只",
+              "sku": 1000950323,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20190726/33365a85-4aad-45a0-90dc-21b2867a8a94_360x360H",
+            "resource": "1000950323",
+            "sort": 4,
+            "spId": 1000950323,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180828/f7a521c9-b6b9-4ba7-b273-1dc0e6f4aed5_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "车之物语0℃洁净玻璃水 1.8L*2",
+                "skuId": 1000370791
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1690,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "车之物语0℃洁净玻璃水 1.8L*2",
+              "sku": 1000370791,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180828/f7a521c9-b6b9-4ba7-b273-1dc0e6f4aed5_360x360H",
+            "resource": "1000370791",
+            "sort": 6,
+            "spId": 1000370791,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 128,
+        "groupFeature": {
+          "titleNew": "楼层单品-日用百货",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层单品-日用百货",
+          "ratio": 1
+        },
+        "moduleType": 128,
+        "name": "楼层单品-日用百货",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 55
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201901/90f8c5b2-3665-4653-baaa-bcff0020b026_750H",
+            "resource": "",
+            "sort": 1,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 146,
+        "groupFeature": {
+          "heightWideRatio": 0.13,
+          "titleNew": "楼层图-猜你喜欢",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "楼层图-猜你喜欢",
+          "ratio": 1
+        },
+        "moduleType": 146,
+        "name": "楼层图-猜你喜欢",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 56
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/fe6b7123-e1bd-4eb0-b1b2-50726a110448_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "红萝卜 约550g",
+                "skuId": 1000362176
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 180,
+              "price": 262,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "红萝卜 约550g",
+              "sku": 1000362176,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/fe6b7123-e1bd-4eb0-b1b2-50726a110448_360x360H",
+            "resource": "1000362176",
+            "sort": 1,
+            "spId": 1000362176,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20191025/0162a931-1dc7-4731-9af2-1659b1c2c375_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "曼秀雷敦天然植物润唇膏 香橙 4g",
+                "skuId": 1000680651
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 3200,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 3990,
+              "showTitle": false,
+              "name": "曼秀雷敦天然植物润唇膏 香橙 4g",
+              "sku": 1000680651,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20191025/0162a931-1dc7-4731-9af2-1659b1c2c375_360x360H",
+            "resource": "1000680651",
+            "sort": 2,
+            "spId": 1000680651,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20190423/8a1fa663-6a34-46da-9a74-7474ae0486ee_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "脑白金精品装 175ml*2",
+                "skuId": 1000885039
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 19800,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "脑白金精品装 175ml*2",
+              "sku": 1000885039,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20190423/8a1fa663-6a34-46da-9a74-7474ae0486ee_360x360H",
+            "resource": "1000885039",
+            "sort": 3,
+            "spId": 1000885039,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20190419/ff790721-99ba-4cc0-9bfb-ee9ea9561cb0_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "可口可乐冰露矿物质水 550ml*12",
+                "skuId": 1000382196
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 650,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 1180,
+              "showTitle": false,
+              "name": "可口可乐冰露矿物质水 550ml*12",
+              "sku": 1000382196,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20190419/ff790721-99ba-4cc0-9bfb-ee9ea9561cb0_360x360H",
+            "resource": "1000382196",
+            "sort": 4,
+            "spId": 1000382196,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180921/3529b929-0f90-458b-a8fd-227a6102cc97_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "佳洁士3D炫白微米炭牙膏 180g",
+                "skuId": 1000700076
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1490,
+              "sell": true,
+              "videoInfo": [
+                {
+                  "videoUrl": "test/ware/290E28CC38E456F291BBE37BBAD1647D.mp4"
+                }
+              ],
+              "promotionDisplayLable": "优惠券",
+              "skuType": 1,
+              "wareStatus": 0,
+              "showTitle": false,
+              "name": "佳洁士3D炫白微米炭牙膏 180g",
+              "sku": 1000700076,
+              "stock": 10,
+              "promotionList": [
+                {
+                  "subTypeName": "优惠券",
+                  "type": 2
+                }
+              ],
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180921/3529b929-0f90-458b-a8fd-227a6102cc97_360x360H",
+            "resource": "1000700076",
+            "sort": 5,
+            "spId": 1000700076,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/d09cc050-e351-4d05-b089-504f61d79e1c_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "香蕉 约500g",
+                "skuId": 1000362089
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 299,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "香蕉 约500g",
+              "sku": 1000362089,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/d09cc050-e351-4d05-b089-504f61d79e1c_360x360H",
+            "resource": "1000362089",
+            "sort": 6,
+            "spId": 1000362089,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20190523/dd80ebdd-fbaa-4bcc-9528-a43638dfc59f_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "丑桔 约500g",
+                "skuId": 1000376078
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 458,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 499,
+              "showTitle": false,
+              "name": "丑桔 约500g",
+              "sku": 1000376078,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20190523/dd80ebdd-fbaa-4bcc-9528-a43638dfc59f_360x360H",
+            "resource": "1000376078",
+            "sort": 7,
+            "spId": 1000376078,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/81b9aad1-96cf-4d05-844d-ec15e07dbd6f_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "雪梨 约900g",
+                "skuId": 1000362092
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 358,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "雪梨 约900g",
+              "sku": 1000362092,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/81b9aad1-96cf-4d05-844d-ec15e07dbd6f_360x360H",
+            "resource": "1000362092",
+            "sort": 8,
+            "spId": 1000362092,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/2537a01d-c4bd-4249-b5a1-be22744ddb8a_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "冬枣 约500g",
+                "skuId": 1000362108
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 499,
+              "price": 599,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "冬枣 约500g",
+              "sku": 1000362108,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/2537a01d-c4bd-4249-b5a1-be22744ddb8a_360x360H",
+            "resource": "1000362108",
+            "sort": 9,
+            "spId": 1000362108,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171025/ac64335d-f539-4796-9b12-b0a58abb0f3a_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "蜜柚 约1.5kg",
+                "skuId": 1000362098
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 598,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 685,
+              "showTitle": false,
+              "name": "蜜柚 约1.5kg",
+              "sku": 1000362098,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171025/ac64335d-f539-4796-9b12-b0a58abb0f3a_360x360H",
+            "resource": "1000362098",
+            "sort": 10,
+            "spId": 1000362098,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/c571136d-769a-4553-a301-9cf7e82f1cf9_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "猕猴桃 约550g",
+                "skuId": 1000362096
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 300,
+              "price": 439,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "猕猴桃 约550g",
+              "sku": 1000362096,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/c571136d-769a-4553-a301-9cf7e82f1cf9_360x360H",
+            "resource": "1000362096",
+            "sort": 11,
+            "spId": 1000362096,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/39311433-4f81-45c8-9443-d6cc36f6d663_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "泰国龙眼 约500g",
+                "skuId": 1000362084
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 799,
+              "price": 899,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "泰国龙眼 约500g",
+              "sku": 1000362084,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/39311433-4f81-45c8-9443-d6cc36f6d663_360x360H",
+            "resource": "1000362084",
+            "sort": 12,
+            "spId": 1000362084,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180830/4b236442-e988-46dd-8166-286c1c05a812_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "红心蜜柚 约1.3kg",
+                "skuId": 1000661880
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 675,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 778,
+              "showTitle": false,
+              "name": "红心蜜柚 约1.3kg",
+              "sku": 1000661880,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180830/4b236442-e988-46dd-8166-286c1c05a812_360x360H",
+            "resource": "1000661880",
+            "sort": 13,
+            "spId": 1000661880,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/feb9f8d0-2f33-4927-b0f9-33a7cafdadd8_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "花牛苹果 约500g",
+                "skuId": 1000365484
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 499,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "花牛苹果 约500g",
+              "sku": 1000365484,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/feb9f8d0-2f33-4927-b0f9-33a7cafdadd8_360x360H",
+            "resource": "1000365484",
+            "sort": 14,
+            "spId": 1000365484,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/eaf97264-5801-4957-8aef-52c8d68a5cb8_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "陕西水晶红富士75# 约1kg",
+                "skuId": 1000365466
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 559,
+              "price": 798,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "陕西水晶红富士75# 约1kg",
+              "sku": 1000365466,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/eaf97264-5801-4957-8aef-52c8d68a5cb8_360x360H",
+            "resource": "1000365466",
+            "sort": 15,
+            "spId": 1000365466,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180919/f98be5f4-c7f6-403d-b7e7-4a3cd6182a40_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "软籽石榴 约350g",
+                "skuId": 1000676081
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 559,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 629,
+              "showTitle": false,
+              "name": "软籽石榴 约350g",
+              "sku": 1000676081,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180919/f98be5f4-c7f6-403d-b7e7-4a3cd6182a40_360x360H",
+            "resource": "1000676081",
+            "sort": 16,
+            "spId": 1000676081,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171122/91ac14d3-40ea-4b7a-bca0-0dcad48043c7_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "陕西精品红富士80# 约1kg",
+                "skuId": 1000362311
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 916,
+              "price": 998,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "陕西精品红富士80# 约1kg",
+              "sku": 1000362311,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171122/91ac14d3-40ea-4b7a-bca0-0dcad48043c7_360x360H",
+            "resource": "1000362311",
+            "sort": 17,
+            "spId": 1000362311,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/ddf32ed4-a943-4918-8047-61d84e7651a9_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "千禧果 约400g",
+                "skuId": 1000365467
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 479,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 559,
+              "showTitle": false,
+              "name": "千禧果 约400g",
+              "sku": 1000365467,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/ddf32ed4-a943-4918-8047-61d84e7651a9_360x360H",
+            "resource": "1000365467",
+            "sort": 18,
+            "spId": 1000365467,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171020/f486111d-adc0-486f-aa8d-a4a73d3b1d9f_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "无籽红提 约500g",
+                "skuId": 1000362263
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 799,
+              "price": 899,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "无籽红提 约500g",
+              "sku": 1000362263,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171020/f486111d-adc0-486f-aa8d-a4a73d3b1d9f_360x360H",
+            "resource": "1000362263",
+            "sort": 19,
+            "spId": 1000362263,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20161207/58197557-6768-4524-8ea5-60ec26570b48_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "黄金帅 约260g",
+                "skuId": 1000376082
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 320,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "黄金帅 约260g",
+              "sku": 1000376082,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20161207/58197557-6768-4524-8ea5-60ec26570b48_360x360H",
+            "resource": "1000376082",
+            "sort": 20,
+            "spId": 1000376082,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20191031/0727ef79-02db-4c96-a773-32c9ed1f88af_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "爱媛橙 约500g",
+                "skuId": 1000365469
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 799,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "爱媛橙 约500g",
+              "sku": 1000365469,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20191031/0727ef79-02db-4c96-a773-32c9ed1f88af_360x360H",
+            "resource": "1000365469",
+            "sort": 21,
+            "spId": 1000365469,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20190912/cc47eb85-07a6-42ec-bd58-aecb896c797b_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "三红蜜柚 约2kg",
+                "skuId": 1001045082
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1450,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 1596,
+              "showTitle": false,
+              "name": "三红蜜柚 约2kg",
+              "sku": 1001045082,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20190912/cc47eb85-07a6-42ec-bd58-aecb896c797b_360x360H",
+            "resource": "1001045082",
+            "sort": 22,
+            "spId": 1001045082,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/5f8e2c05-4094-40e7-be71-d2a0cd7562e5_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "丰水梨 约900g",
+                "skuId": 1000362097
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 538,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "丰水梨 约900g",
+              "sku": 1000362097,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/5f8e2c05-4094-40e7-be71-d2a0cd7562e5_360x360H",
+            "resource": "1000362097",
+            "sort": 23,
+            "spId": 1000362097,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/32ac183f-904d-4639-b561-963cc9edc950_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "库尔勒香梨120# 约500g",
+                "skuId": 1000362105
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 699,
+              "price": 799,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "库尔勒香梨120# 约500g",
+              "sku": 1000362105,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/32ac183f-904d-4639-b561-963cc9edc950_360x360H",
+            "resource": "1000362105",
+            "sort": 24,
+            "spId": 1000362105,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/4fb0af07-70cf-4b6d-b9f9-75ab5a3c0496_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "精品有机红柚 约1.8kg",
+                "skuId": 1000365494
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1258,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 2156,
+              "showTitle": false,
+              "name": "精品有机红柚 约1.8kg",
+              "sku": 1000365494,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/4fb0af07-70cf-4b6d-b9f9-75ab5a3c0496_360x360H",
+            "resource": "1000365494",
+            "sort": 25,
+            "spId": 1000365494,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20181017/4d7f216a-94de-44d1-ab70-a71f34457b7c_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "优质红心火龙果 约450g",
+                "skuId": 1000362320
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 899,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "优质红心火龙果 约450g",
+              "sku": 1000362320,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20181017/4d7f216a-94de-44d1-ab70-a71f34457b7c_360x360H",
+            "resource": "1000362320",
+            "sort": 26,
+            "spId": 1000362320,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/9e113151-6761-4aca-9685-b967e87eeb9b_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "皇冠梨 约800g",
+                "skuId": 1000362091
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 638,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "皇冠梨 约800g",
+              "sku": 1000362091,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/9e113151-6761-4aca-9685-b967e87eeb9b_360x360H",
+            "resource": "1000362091",
+            "sort": 27,
+            "spId": 1000362091,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/143e69b7-cc0a-4a34-b837-271d0aff0341_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "柿饼 约500g",
+                "skuId": 1000365479
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 999,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 1099,
+              "showTitle": false,
+              "name": "柿饼 约500g",
+              "sku": 1000365479,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/143e69b7-cc0a-4a34-b837-271d0aff0341_360x360H",
+            "resource": "1000365479",
+            "sort": 28,
+            "spId": 1000365479,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/afa77986-899b-4740-9db1-95ce0f2e40d1_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "雪莲果 约700g",
+                "skuId": 1000365486
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 459,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "雪莲果 约700g",
+              "sku": 1000365486,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/afa77986-899b-4740-9db1-95ce0f2e40d1_360x360H",
+            "resource": "1000365486",
+            "sort": 29,
+            "spId": 1000365486,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/df0d4138-fc1c-42f2-948a-aeb74ca51016_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "精品有机白柚 约1.8kg",
+                "skuId": 1000365495
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1258,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 1796,
+              "showTitle": false,
+              "name": "精品有机白柚 约1.8kg",
+              "sku": 1000365495,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/df0d4138-fc1c-42f2-948a-aeb74ca51016_360x360H",
+            "resource": "1000365495",
+            "sort": 30,
+            "spId": 1000365495,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171105/b254d761-2576-4dcb-9949-d4cd51218873_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "精品木瓜 约875g",
+                "skuId": 1000362294
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 800,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 875,
+              "showTitle": false,
+              "name": "精品木瓜 约875g",
+              "sku": 1000362294,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171105/b254d761-2576-4dcb-9949-d4cd51218873_360x360H",
+            "resource": "1000362294",
+            "sort": 31,
+            "spId": 1000362294,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20181119/4b50e689-a3b7-4d11-bca2-aa02406bb982_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "冰糖橙  约600g",
+                "skuId": 1001234507
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 839,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "冰糖橙  约600g",
+              "sku": 1001234507,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20181119/4b50e689-a3b7-4d11-bca2-aa02406bb982_360x360H",
+            "resource": "1001234507",
+            "sort": 32,
+            "spId": 1001234507,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/6e811902-6aa7-40c6-a209-1fe70589fe22_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "金钱桔 约500g",
+                "skuId": 1000365476
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 999,
+              "price": 1099,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "金钱桔 约500g",
+              "sku": 1000365476,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/6e811902-6aa7-40c6-a209-1fe70589fe22_360x360H",
+            "resource": "1000365476",
+            "sort": 33,
+            "spId": 1000365476,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180120/82b77e2f-2c4a-4086-970c-bb2c35966368_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "青枣 约500g",
+                "skuId": 1000365471
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 599,
+              "price": 699,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "青枣 约500g",
+              "sku": 1000365471,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180120/82b77e2f-2c4a-4086-970c-bb2c35966368_360x360H",
+            "resource": "1000365471",
+            "sort": 34,
+            "spId": 1000365471,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180426/c12835eb-a9d2-42b9-99a4-bb6b3dd28727_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "金奇异果 1个",
+                "skuId": 1000391662
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 220,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "金奇异果 1个",
+              "sku": 1000391662,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180426/c12835eb-a9d2-42b9-99a4-bb6b3dd28727_360x360H",
+            "resource": "1000391662",
+            "sort": 35,
+            "spId": 1000391662,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180120/4ea91044-5adf-4c7a-b060-f40d3975962a_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "蓝莓 约125g/盒",
+                "skuId": 1000375649
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1290,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 1390,
+              "showTitle": false,
+              "name": "蓝莓 约125g/盒",
+              "sku": 1000375649,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180120/4ea91044-5adf-4c7a-b060-f40d3975962a_360x360H",
+            "resource": "1000375649",
+            "sort": 36,
+            "spId": 1000375649,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20181214/a57f3f93-1284-46be-a0d3-8e74847142db_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "进口柠檬 1个",
+                "skuId": 1000365488
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 220,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 260,
+              "showTitle": false,
+              "name": "进口柠檬 1个",
+              "sku": 1000365488,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20181214/a57f3f93-1284-46be-a0d3-8e74847142db_360x360H",
+            "resource": "1000365488",
+            "sort": 37,
+            "spId": 1000365488,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/f604eab0-96f1-4afa-ab6d-592636f37830_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "奇异果 1个",
+                "skuId": 1000362159
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 160,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 190,
+              "showTitle": false,
+              "name": "奇异果 1个",
+              "sku": 1000362159,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/f604eab0-96f1-4afa-ab6d-592636f37830_360x360H",
+            "resource": "1000362159",
+            "sort": 38,
+            "spId": 1000362159,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/a8bcc3a9-5ab5-4114-a63d-3c09377dac55_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "西州蜜瓜 约4kg",
+                "skuId": 1000365470
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 3665,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "西州蜜瓜 约4kg",
+              "sku": 1000365470,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/a8bcc3a9-5ab5-4114-a63d-3c09377dac55_360x360H",
+            "resource": "1000365470",
+            "sort": 39,
+            "spId": 1000365470,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/8d712df0-f53f-4d97-948a-409f19d78b28_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "青芒 约650g",
+                "skuId": 1000365492
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1299,
+              "price": 1429,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "青芒 约650g",
+              "sku": 1000365492,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/8d712df0-f53f-4d97-948a-409f19d78b28_360x360H",
+            "resource": "1000365492",
+            "sort": 40,
+            "spId": 1000365492,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180829/f0291963-7dc1-471d-8b80-2ebce181f823_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "椰青 1个",
+                "skuId": 1000382372
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 990,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 1090,
+              "showTitle": false,
+              "name": "椰青 1个",
+              "sku": 1000382372,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180829/f0291963-7dc1-471d-8b80-2ebce181f823_360x360H",
+            "resource": "1000382372",
+            "sort": 41,
+            "spId": 1000382372,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20181214/397426bc-8787-4414-a293-72e6200573a1_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "椰皇 约600g/个",
+                "skuId": 1000362158
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 999,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "椰皇 约600g/个",
+              "sku": 1000362158,
+              "skuType": 1,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20181214/397426bc-8787-4414-a293-72e6200573a1_360x360H",
+            "resource": "1000362158",
+            "sort": 42,
+            "spId": 1000362158,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20181026/9014fca8-76ef-42d6-91db-40ca31d1a7d3_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "黄肉蜜柚 约1.5kg",
+                "skuId": 1001234505
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1075,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "黄肉蜜柚 约1.5kg",
+              "sku": 1001234505,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20181026/9014fca8-76ef-42d6-91db-40ca31d1a7d3_360x360H",
+            "resource": "1001234505",
+            "sort": 43,
+            "spId": 1001234505,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/8fba3e1e-3a10-43e0-be3a-1aef63612eff_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "红西柚 约450g",
+                "skuId": 1000362085
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1439,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 1529,
+              "showTitle": false,
+              "name": "红西柚 约450g",
+              "sku": 1000362085,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/8fba3e1e-3a10-43e0-be3a-1aef63612eff_360x360H",
+            "resource": "1000362085",
+            "sort": 44,
+            "spId": 1000362085,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/43500155-4477-4d9e-9a27-d216622067cf_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "加利果 约700g",
+                "skuId": 1000362082
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 1119,
+              "price": 1259,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "加利果 约700g",
+              "sku": 1000362082,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/43500155-4477-4d9e-9a27-d216622067cf_360x360H",
+            "resource": "1000362082",
+            "sort": 45,
+            "spId": 1000362082,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/d49f7293-6edd-46e9-96b1-8f12f61b76fd_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "土豆 约600g",
+                "skuId": 1000362178
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 218,
+              "price": 320,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "土豆 约600g",
+              "sku": 1000362178,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/d49f7293-6edd-46e9-96b1-8f12f61b76fd_360x360H",
+            "resource": "1000362178",
+            "sort": 46,
+            "spId": 1000362178,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/94a58c65-5a8e-4b4b-b240-d5d28c738a85_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "番茄（大） 约500g",
+                "skuId": 1000362245
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 358,
+              "price": 398,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "番茄（大） 约500g",
+              "sku": 1000362245,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/94a58c65-5a8e-4b4b-b240-d5d28c738a85_360x360H",
+            "resource": "1000362245",
+            "sort": 47,
+            "spId": 1000362245,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/e0bf0042-5b67-4987-a23e-4bc8ad2e521e_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "生姜 约300g",
+                "skuId": 1000362195
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 359,
+              "price": 395,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "生姜 约300g",
+              "sku": 1000362195,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/e0bf0042-5b67-4987-a23e-4bc8ad2e521e_360x360H",
+            "resource": "1000362195",
+            "sort": 48,
+            "spId": 1000362195,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20191016/c6ad9776-ebea-4032-b129-caa15ff96e82_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "超甜玉米 1根",
+                "skuId": 1001092132
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 150,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 200,
+              "showTitle": false,
+              "name": "超甜玉米 1根",
+              "sku": 1001092132,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20191016/c6ad9776-ebea-4032-b129-caa15ff96e82_360x360H",
+            "resource": "1001092132",
+            "sort": 49,
+            "spId": 1001092132,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/9439c72c-f4e7-434e-8a8b-4734a6e41a26_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "生菜 约350g",
+                "skuId": 1000362202
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 279,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "生菜 约350g",
+              "sku": 1000362202,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/9439c72c-f4e7-434e-8a8b-4734a6e41a26_360x360H",
+            "resource": "1000362202",
+            "sort": 50,
+            "spId": 1000362202,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/0f9f7948-b9d8-47dd-936f-4f8f9f310dbc_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "黄瓜 约600g",
+                "skuId": 1000362213
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 450,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 478,
+              "showTitle": false,
+              "name": "黄瓜 约600g",
+              "sku": 1000362213,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/0f9f7948-b9d8-47dd-936f-4f8f9f310dbc_360x360H",
+            "resource": "1000362213",
+            "sort": 51,
+            "spId": 1000362213,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/637d12ae-dc1c-4455-ac81-7ca85133d342_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "上海青 约500g",
+                "skuId": 1000362197
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 268,
+              "price": 298,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "上海青 约500g",
+              "sku": 1000362197,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/637d12ae-dc1c-4455-ac81-7ca85133d342_360x360H",
+            "resource": "1000362197",
+            "sort": 52,
+            "spId": 1000362197,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/9e878cc2-90a4-4ec4-ad79-a1f5c5f6b2a6_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "红薯 约600g",
+                "skuId": 1000362177
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 238,
+              "price": 300,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "红薯 约600g",
+              "sku": 1000362177,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/9e878cc2-90a4-4ec4-ad79-a1f5c5f6b2a6_360x360H",
+            "resource": "1000362177",
+            "sort": 53,
+            "spId": 1000362177,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/e5c68471-4e3d-49f4-afbb-83de21e1e2a3_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "网装蒜头 约350g",
+                "skuId": 1000362193
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 419,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 460,
+              "showTitle": false,
+              "name": "网装蒜头 约350g",
+              "sku": 1000362193,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/e5c68471-4e3d-49f4-afbb-83de21e1e2a3_360x360H",
+            "resource": "1000362193",
+            "sort": 54,
+            "spId": 1000362193,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/dee16846-f840-44f0-be8f-49dcecd80d0b_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "青皮冬瓜 约950g",
+                "skuId": 1000362216
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 195,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 300,
+              "showTitle": false,
+              "name": "青皮冬瓜 约950g",
+              "sku": 1000362216,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/dee16846-f840-44f0-be8f-49dcecd80d0b_360x360H",
+            "resource": "1000362216",
+            "sort": 55,
+            "spId": 1000362216,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/7c3225be-13d3-41d7-a937-fdf5b031379b_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "西兰花 约450g",
+                "skuId": 1000362226
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 448,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "西兰花 约450g",
+              "sku": 1000362226,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/7c3225be-13d3-41d7-a937-fdf5b031379b_360x360H",
+            "resource": "1000362226",
+            "sort": 56,
+            "spId": 1000362226,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/a945b2d9-b617-4df4-880a-719e16d26c7a_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "杏鲍菇 约350g",
+                "skuId": 1000362241
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 279,
+              "price": 320,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "杏鲍菇 约350g",
+              "sku": 1000362241,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/a945b2d9-b617-4df4-880a-719e16d26c7a_360x360H",
+            "resource": "1000362241",
+            "sort": 57,
+            "spId": 1000362241,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/b4bfdaa2-f1e3-4d9e-8e27-8f59f62fdeed_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "洋葱 约500g",
+                "skuId": 1000362194
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 298,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 358,
+              "showTitle": false,
+              "name": "洋葱 约500g",
+              "sku": 1000362194,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/b4bfdaa2-f1e3-4d9e-8e27-8f59f62fdeed_360x360H",
+            "resource": "1000362194",
+            "sort": 58,
+            "spId": 1000362194,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171025/43029e36-b29b-4ad8-aba1-1fe35bdefa26_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "大白菜秧 约500g",
+                "skuId": 1000362200
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 139,
+              "price": 198,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "大白菜秧 约500g",
+              "sku": 1000362200,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171025/43029e36-b29b-4ad8-aba1-1fe35bdefa26_360x360H",
+            "resource": "1000362200",
+            "sort": 59,
+            "spId": 1000362200,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/0419530e-2626-453f-9f8f-9ff6c52602ec_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "油麦菜 约500g",
+                "skuId": 1000362201
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 298,
+              "price": 358,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "油麦菜 约500g",
+              "sku": 1000362201,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/0419530e-2626-453f-9f8f-9ff6c52602ec_360x360H",
+            "resource": "1000362201",
+            "sort": 60,
+            "spId": 1000362201,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/df77f618-c68e-403b-a379-07fe421e4513_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "毛山药 约500g",
+                "skuId": 1000362188
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 279,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 398,
+              "showTitle": false,
+              "name": "毛山药 约500g",
+              "sku": 1000362188,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/df77f618-c68e-403b-a379-07fe421e4513_360x360H",
+            "resource": "1000362188",
+            "sort": 61,
+            "spId": 1000362188,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171123/b1a1d8f0-6c89-4db7-9dbb-bd3a1ab1672d_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "豌豆角 约500g",
+                "skuId": 1000365496
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 758,
+              "price": 798,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "豌豆角 约500g",
+              "sku": 1000365496,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171123/b1a1d8f0-6c89-4db7-9dbb-bd3a1ab1672d_360x360H",
+            "resource": "1000365496",
+            "sort": 62,
+            "spId": 1000365496,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "wareStatus": 0,
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171113/ed38f376-f2d1-4267-b9e3-4ed9eec3956e_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "板栗 约500g",
+                "skuId": 1000365468
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 499,
+              "price": 599,
+              "showTitle": false,
+              "sell": true,
+              "videoInfo": [],
+              "name": "板栗 约500g",
+              "sku": 1000365468,
+              "skuType": 1,
+              "stock": 10
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171113/ed38f376-f2d1-4267-b9e3-4ed9eec3956e_360x360H",
+            "resource": "1000365468",
+            "sort": 63,
+            "spId": 1000365468,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/5ae1245c-58e4-485f-bf89-819364d114c8_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "球包菜 约1.2kg",
+                "skuId": 1000362203
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 379,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 475,
+              "showTitle": false,
+              "name": "球包菜 约1.2kg",
+              "sku": 1000362203,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/5ae1245c-58e4-485f-bf89-819364d114c8_360x360H",
+            "resource": "1000362203",
+            "sort": 64,
+            "spId": 1000362203,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20180910/1ef666c1-6ad5-45dd-9e21-7510cbe2df94_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "海鲜菇 约250g",
+                "skuId": 1000373739
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 280,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 400,
+              "showTitle": false,
+              "name": "海鲜菇 约250g",
+              "sku": 1000373739,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20180910/1ef666c1-6ad5-45dd-9e21-7510cbe2df94_360x360H",
+            "resource": "1000373739",
+            "sort": 65,
+            "spId": 1000373739,
+            "storeId": 13351,
+            "venderId": 60
+          },
+          {
+            "brandId": 0,
+            "data": {
+              "skus": {
+                "img": "https://img.dmallcdn.com/20171105/511fed0c-d7d5-4cf6-9c87-7aa554798d53_360x360H",
+                "shop": 13351,
+                "promotionInfo": "",
+                "title": "青梗芹菜 约300g",
+                "skuId": 1000362206
+              },
+              "showPlayIcon": false,
+              "promotionPrice": 215,
+              "sell": true,
+              "videoInfo": [],
+              "skuType": 1,
+              "wareStatus": 0,
+              "price": 239,
+              "showTitle": false,
+              "name": "青梗芹菜 约300g",
+              "sku": 1000362206,
+              "stock": 10,
+              "wareType": 0
+            },
+            "dataType": 3,
+            "imageUrl": "https://img.dmallcdn.com/20171105/511fed0c-d7d5-4cf6-9c87-7aa554798d53_360x360H",
+            "resource": "1000362206",
+            "sort": 66,
+            "spId": 1000362206,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 128,
+        "groupFeature": {
+          "titleNew": "猜你喜欢",
+          "margin": 2,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "猜你喜欢",
+          "ratio": 1
+        },
+        "moduleType": 128,
+        "name": "猜你喜欢",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 57,
+        "spId": -1
+      },
+      {
+        "dataList": [
+          {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201812/fa88294d-795a-4304-a50f-1ecaf61d9052_750H",
+            "resource": "https://a.dmall.com/act/tEa1AxpITKSv2.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573633440655",
+            "sort": 1,
+            "storeId": 13351,
+            "venderId": 60
+          }
+        ],
+        "displayType": 146,
+        "groupFeature": {
+          "heightWideRatio": 0.11,
+          "titleNew": "证照公示",
+          "margin": 0,
+          "subTitle": "",
+          "showTitle": false,
+          "title": "证照公示",
+          "ratio": 1
+        },
+        "moduleType": 146,
+        "name": "证照公示",
+        "showBgImg": false,
+        "showName": false,
+        "sort": 58
+      }
+    ]
+  },
+  "errCode": "0000",
+  "errMsg": ""
+}

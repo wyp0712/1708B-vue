@@ -1,0 +1,247 @@
+{
+  "stid": "576591972453269000",
+  "stids": [
+    {
+      "movieId": 1163219,
+      "stid": "576591972453269000_a1163219_c0"
+    },
+    {
+      "movieId": 1218029,
+      "stid": "576591972453269000_a1218029_c1"
+    },
+    {
+      "movieId": 1250690,
+      "stid": "576591972453269000_a1250690_c2"
+    },
+    {
+      "movieId": 247730,
+      "stid": "576591972453269000_a247730_c3"
+    },
+    {
+      "movieId": 1250952,
+      "stid": "576591972453269000_a1250952_c4"
+    },
+    {
+      "movieId": 342773,
+      "stid": "576591972453269000_a342773_c5"
+    },
+    {
+      "movieId": 1250662,
+      "stid": "576591972453269000_a1250662_c6"
+    },
+    {
+      "movieId": 1300417,
+      "stid": "576591972453269000_a1300417_c7"
+    },
+    {
+      "movieId": 1292,
+      "stid": "576591972453269000_a1292_c8"
+    },
+    {
+      "movieId": 1230121,
+      "stid": "576591972453269000_a1230121_c9"
+    },
+    {
+      "movieId": 346640,
+      "stid": "576591972453269000_a346640_c10"
+    },
+    {
+      "movieId": 1222930,
+      "stid": "576591972453269000_a1222930_c11"
+    }
+  ],
+  "total": 86,
+  "movieList": [
+    {
+      "id": 1163219,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/70b4d52270257e71046767ea1be1bede2983514.jpg",
+      "version": "",
+      "nm": "决战中途岛",
+      "preShow": false,
+      "sc": 9.1,
+      "globalReleased": true,
+      "wish": 34974,
+      "star": "艾德·斯克林,卢克·伊万斯,帕特里克·威尔森",
+      "rt": "2019-11-08",
+      "showInfo": "今天224家影院放映2181场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1218029,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/7b437e3a0d08d10e374ddc34f71b88fe3379132.jpg",
+      "version": "",
+      "nm": "少年的你",
+      "preShow": false,
+      "sc": 9.4,
+      "globalReleased": true,
+      "wish": 1056702,
+      "star": "周冬雨,易烊千玺,尹昉",
+      "rt": "2019-10-25",
+      "showInfo": "今天225家影院放映1947场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1250690,
+      "haspromotionTag": false,
+      "img": "http://p1.meituan.net/128.180/movie/ddfb39b3491fa928f5aa3358464647c42801135.jpg",
+      "version": "",
+      "nm": "受益人",
+      "preShow": false,
+      "sc": 8.8,
+      "globalReleased": true,
+      "wish": 36026,
+      "star": "大鹏,柳岩,张子贤",
+      "rt": "2019-11-08",
+      "showInfo": "今天222家影院放映1476场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 247730,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/b932f7f678a3e28763b3b281b3e120ef13622509.jpg",
+      "version": "v2d imax",
+      "nm": "终结者：黑暗命运",
+      "preShow": false,
+      "sc": 8.6,
+      "globalReleased": true,
+      "wish": 149017,
+      "star": "阿诺德·施瓦辛格,琳达·汉密尔顿,麦肯兹·戴维斯",
+      "rt": "2019-11-01",
+      "showInfo": "今天210家影院放映1002场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1250952,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/ecca4f0b95340b2c57006a1bace4c3f91386100.jpg",
+      "version": "v2d imax",
+      "nm": "天气之子",
+      "preShow": false,
+      "sc": 9,
+      "globalReleased": true,
+      "wish": 386510,
+      "star": "醍醐虎汰朗,森七菜,本田翼",
+      "rt": "2019-11-01",
+      "showInfo": "今天186家影院放映746场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 342773,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/moviemachine/c6b78c6badb0280eda5989032475ca341406684.jpg",
+      "version": "v2d imax",
+      "nm": "霹雳娇娃",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": false,
+      "wish": 34671,
+      "star": "克里斯汀·斯图尔特,娜奥米·斯科特,埃拉·巴林斯卡",
+      "rt": "2019-11-15",
+      "showInfo": "今天1家影院放映1场",
+      "showst": 4,
+      "wishst": 0
+    },
+    {
+      "id": 1250662,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/1cd7eccdeea4c443702b19bea0ba2ba52160055.jpg",
+      "version": "",
+      "nm": "大约在冬季",
+      "preShow": true,
+      "sc": 0,
+      "globalReleased": false,
+      "wish": 58831,
+      "star": "马思纯,霍建华,魏大勋",
+      "rt": "2019-11-15",
+      "showInfo": "2019-11-15 本周五上映",
+      "showst": 4,
+      "wishst": 0
+    },
+    {
+      "id": 1300417,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/6c8f027b8b629140d86f8c050d44d18811403926.jpg",
+      "version": "",
+      "nm": "小巷管家",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": true,
+      "wish": 79,
+      "star": "巩汉林,张英,方清平",
+      "rt": "2019-10-29",
+      "showInfo": "今天135家影院放映371场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1292,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/e128f3a13dd59ab1c31e17bcee1eb5fc3032261.jpg",
+      "version": "",
+      "nm": "海上钢琴师",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": false,
+      "wish": 53733,
+      "star": "蒂姆·罗斯,比尔·努恩,普路特·泰勒·文斯",
+      "rt": "2019-11-15",
+      "showInfo": "2019-11-15 本周五上映",
+      "showst": 4,
+      "wishst": 0
+    },
+    {
+      "id": 1230121,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/128.180/movie/cddf92d0ac6a0db837a1bc488b241c42267927.jpg",
+      "version": "v2d imax",
+      "nm": "中国机长",
+      "preShow": false,
+      "sc": 9.4,
+      "globalReleased": true,
+      "wish": 561040,
+      "star": "张涵予,欧豪,杜江",
+      "rt": "2019-09-30",
+      "showInfo": "今天125家影院放映277场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 346640,
+      "haspromotionTag": false,
+      "img": "http://p1.meituan.net/128.180/movie/1042b589e662819a100a8f617f30d5ae541438.jpg",
+      "version": "",
+      "nm": "长安道",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": false,
+      "wish": 18009,
+      "star": "范伟,宋洋,焦俊艳",
+      "rt": "2019-11-15",
+      "showInfo": "今天1家影院放映12场",
+      "showst": 4,
+      "wishst": 0
+    },
+    {
+      "id": 1222930,
+      "haspromotionTag": false,
+      "img": "http://p1.meituan.net/128.180/movie/a2d899820a54b1e34c2e13eb7d415cc4839646.jpg",
+      "version": "v3d",
+      "nm": "他们已不再变老",
+      "preShow": false,
+      "sc": 8.9,
+      "globalReleased": true,
+      "wish": 7609,
+      "rt": "2019-11-11",
+      "showInfo": "今天90家影院放映248场",
+      "showst": 3,
+      "wishst": 0
+    }
+  ]
+}

@@ -2,10 +2,13 @@
   <div id="app">
     <header class="header"></header> 
 
-    <KeyUpComponent />
+    <!-- <KeyUpComponent /> -->
     <div class="main">
       <CartList  :cartList="cartList" />
     </div>
+    <footer class="footer">
+      <TotalPrice />
+    </footer>
   </div>
 </template>
 
@@ -13,6 +16,9 @@
 
 import CartList from './components/CartList'
 import KeyUpComponent from './components/KeyUp'
+import TotalPrice from './components/TotalPrice'
+import Bus from './eventBus/index'
+
 export default {
   name: 'app',
   data() {
@@ -23,10 +29,15 @@ export default {
   },
   components: {
     CartList,
-    KeyUpComponent
+    KeyUpComponent,
+    TotalPrice
   },
   created() {
     this.getData()
+    // 监听消息 
+    Bus.$on('toAppVue', res => {
+      console.log(res, 'res')
+    })
   },
   methods: {
     submit() {

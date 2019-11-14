@@ -10,13 +10,21 @@
       <hr>
     </li>
 
-    <TotalPrice :total="total"/>
-    <Dialog @toParent="toParent" v-show="isShowDialog" />
+    <!-- <TotalPrice :total="total"/> -->
+    <Dialog @toParent="toParent" v-show="isShowDialog"> 
+        <h1 slot="btn"> 
+          <button>确定按钮</button>
+          <button>取消</button> 
+        </h1>
+        <h2 slot="btn2"> hello world </h2>
+    </Dialog> 
 </ul>
 </template>
 <script>
 import TotalPrice from './TotalPrice'
 import Dialog from './Dialog'
+import Bus from '../eventBus/index'
+
 export default {
   props: {
     cartList: Array, // 接收列表数据
@@ -44,6 +52,10 @@ export default {
     this.getTotalPrice()  // 进入页面先调用总价函数
   },
   methods: {
+    countPrice() {
+      // emit发送消息
+      Bus.$emit('toAppVue', this.total) 
+    },
     // 接收弹出框组件通过子传父传过来的值
     toParent(msg) {
       if (msg.code == 0) { // 如果为0删除数据
@@ -58,9 +70,11 @@ export default {
         return  pre += next.count * next.price
       }, 0)
       // console.log(this.total, 'total-------zongjia')
+      this.countPrice()
     },
     // 删除函数
     removeItem(item, index) {
+
       this.removeIndex = index // 每次点击减的时候更新下标
       if (item.count <=1 ) { // 判断到1的情况，
         this.isShowDialog = true // 调出弹出框，并且判断代码是否要接着往下运行

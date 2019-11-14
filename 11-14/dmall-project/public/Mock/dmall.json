@@ -1,0 +1,741 @@
+{
+  "currentPage": 1,
+  "hasMore": true,
+  "pageModules": [
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/e25d9483-1def-4984-82fb-4e9cb3e9da36_750H",
+          "resource": "https://a.dmall.com/act/XW1xdAB0NS.html?nopos=1&tpc=a_10879&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/d1555cb5-2fcb-4257-8f51-43306f2cec61_750H",
+          "resource": "https://a.dmall.com/act/bR4LfHuCQxcAkaGJ.html?nopos=1&tpc=a_11867&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 2,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/837fb14c-59ec-4eab-8da5-2f8e2a91e300_750H",
+          "resource": "https://t.dmall.com/r0k1pg?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 3,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/14e6142b-298a-4d9c-8399-c24c026b5fb2_750H",
+          "resource": "https://t.dmall.com/OYjmew?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 4,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201907/5e8b652a-a7b0-4d9a-9ed4-3e927f936ff1_750H",
+          "resource": "https://a.dmall.com/act/BJE8gtA0Yc.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 5,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 119,
+      "groupFeature": {
+        "heightWideRatio": 0.31,
+        "titleNew": "首焦",
+        "margin": 0,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "首焦",
+        "ratio": 1
+      },
+      "moduleType": 119,
+      "name": "首焦",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 1
+    },
+    {
+      "dataList": [],
+      "displayType": 139,
+      "groupFeature": {
+        "titleNew": "搜索",
+        "margin": 0,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "搜索",
+        "ratio": 1
+      },
+      "moduleType": 139,
+      "name": "搜索",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 7,
+      "spId": -1
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "早晚市"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201910/8448e49d-0c77-4315-b21e-b821c6c313d1_240x240H",
+          "remark": "早晚市",
+          "resource": "https://a.dmall.com/act/hpNKgAiY5UL.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "进店必买"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/d9456741-1f40-4cce-a17a-60d1c9cb0127_240x240H",
+          "remark": "进店必买",
+          "resource": "https://a.dmall.com/act/2LC0aOBblrfIJzhg.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 2,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "中百品牌"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201907/1c89f777-a403-44f9-ad82-de2b87679a24_240x240H",
+          "remark": "中百品牌",
+          "resource": "https://a.dmall.com/act/NVZ4GyKcDIkbPx.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 3,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "进口专区"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201908/7ba17e2b-1859-4caa-8169-11c6b1e38a9b_240x240H",
+          "remark": "进口专区",
+          "resource": "https://a.dmall.com/act/V42LbtWU38Q5hvI.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 4,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "大牌购"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/1ef38f5c-f212-4741-9e30-a391068af0b9_240x240H",
+          "remark": "大牌购",
+          "resource": "https://a.dmall.com/act/pE0RflLPbx24ZQS.html?nopos=1&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 5,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 120,
+      "groupFeature": {
+        "titleNew": "ICON上",
+        "margin": 10,
+        "showHoleBar": false,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "ICON上",
+        "ratio": 1
+      },
+      "moduleType": 120,
+      "name": "ICON上",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 8
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "充值中心"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201910/9504e940-4549-4012-ab7e-7d4a366a3dfb_240x240H",
+          "remark": "充值中心",
+          "resource": "https://act.dmall.com/dac/virtual/?dmTransStatusBar=true&dmShowTitleBar=false&bounces=false&erpStoreId=13351&dmfrom=wx&shareKey=1573699231232#/",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "支付优惠"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201909/22ef2c26-0f4c-4e30-a0d5-a26b2d32e711_240x240H",
+          "remark": "支付优惠",
+          "resource": "https://t.dmall.com/5GsLpO?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 2,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "领券中心"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/4a707a41-252c-4c18-8102-256a657afc9e_240x240H",
+          "remark": "领券中心",
+          "resource": "https://a.dmall.com/act/Cmzo5OdXgnx.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 3,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "新人专享"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201910/1325578c-a701-42ef-8fe7-e4d2d994925a_240x240H",
+          "remark": "新人专享",
+          "resource": "https://a.dmall.com/act/mvp3HGXzYu1Bx.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 4,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "showPlayIcon": false,
+            "showTitle": true,
+            "title": "0元拿"
+          },
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201910/1c07b4d1-1c03-4e6a-bd7c-b358a8061055_240x240H",
+          "remark": "0元拿",
+          "resource": "https://t.dmall.com/Py090o?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 5,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 120,
+      "groupFeature": {
+        "titleNew": "ICON下",
+        "margin": 0,
+        "showHoleBar": false,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "ICON下",
+        "ratio": 1
+      },
+      "moduleType": 120,
+      "name": "ICON下",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 9
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "",
+          "remark": "平台服务协议和交易规则公示",
+          "resource": "https://a.dmall.com/act/Zrvx2ClV1a.html?nopos=0&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "",
+          "remark": "云闪付APP买单满50立减5元！",
+          "resource": "https://t.dmall.com/sMsDkv?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 2,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "",
+          "remark": "工行信用卡付款,有机会享受满100立减30优惠。",
+          "resource": "https://a.dmall.com/act/IxBMrgnV58X1.html?nopos=0&tpc=a_14071&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 3,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "",
+          "remark": "京东支付新用户立减10元!",
+          "resource": "https://a.dmall.com/act/S1CqmPAk72e.html?nopos=0&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 4,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 136,
+      "groupFeature": {
+        "titleNew": "多点头条",
+        "margin": 0,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "多点头条",
+        "iconImgUrl": "http://img.dmallcdn.com/mIndex/201902/69ca2eb8-d797-435a-9323-93b3bfc82d8f",
+        "ratio": 1
+      },
+      "moduleType": 136,
+      "name": "多点头条",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 10
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 2,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201904/b018017a-2796-4d91-9d94-05263b233e4e_750H",
+          "resource": "app://category?selectedBusinessCode=1&firstCategoryId=&secondCategoryId=&@animate=null&@jump=true&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 146,
+      "groupFeature": {
+        "heightWideRatio": 0.09,
+        "titleNew": "主题乐园分栏条 ",
+        "margin": 10,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "主题乐园分栏条 ",
+        "ratio": 1
+      },
+      "moduleType": 146,
+      "name": "主题乐园分栏条 ",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 18,
+      "spId": -1
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/049d3a14-bc35-475f-9797-8c598a751164_480x480H",
+          "resource": "https://a.dmall.com/act/S3oW4gkJuCOXm.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/f878e695-0a72-4dd5-a2c0-96844977c97e_480x480H",
+          "resource": "https://a.dmall.com/act/IKBtHLzg6u.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 2,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/a365dda5-57b0-446b-8b63-148c0bc98b26_480x480H",
+          "resource": "https://a.dmall.com/act/kLgCJRZcNGrPw.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 3,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 134,
+      "groupFeature": {
+        "titleNew": "主题乐园新",
+        "margin": 0,
+        "showHoleBar": false,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "主题乐园新",
+        "ratio": 1
+      },
+      "moduleType": 134,
+      "name": "主题乐园新",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 19
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/1de961a8-256e-4efb-bd77-a57beca0bb97_750H",
+          "resource": "https://a.dmall.com/act/7Pco5K3QfUTrV.html?nopos=1&tpc=a_5832&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 119,
+      "groupFeature": {
+        "heightWideRatio": 0.29,
+        "titleNew": "上单品推荐（活动页）",
+        "margin": 0,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "上单品推荐（活动页）",
+        "ratio": 1
+      },
+      "moduleType": 119,
+      "name": "上单品推荐（活动页）",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 20
+    },
+    {
+      "dataList": [],
+      "displayType": 148,
+      "groupFeature": {
+        "titleNew": "每日特价",
+        "margin": 0,
+        "subTitle": "",
+        "showTitle": true,
+        "title": "每日特价",
+        "ratio": 1
+      },
+      "moduleType": 148,
+      "name": "每日特价",
+      "showBgImg": false,
+      "showName": true,
+      "sort": 23,
+      "spId": 79
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201902/2a5864cc-aab4-4ea1-98d2-9306a8be7214_750H",
+          "resource": "",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 146,
+      "groupFeature": {
+        "heightWideRatio": 0.08,
+        "titleNew": "超市优选",
+        "margin": 5,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "超市优选",
+        "ratio": 1
+      },
+      "moduleType": 146,
+      "name": "超市优选",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 25
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/ca38ef32-3695-41f6-a9ea-1b783bcfd81e_360x360H",
+          "resource": "https://a.dmall.com/act/6Wc4uS0qfkICi3.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/503eda7d-e4df-4f64-a1dc-44f2ac42d007_360x360H",
+          "resource": "https://a.dmall.com/act/g0snEqOR5wPTkCbN.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 2,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/5ed1c8a8-1648-45c4-b868-78f124e85e2f_360x360H",
+          "resource": "https://a.dmall.com/act/5YqMgzlJZSO.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 3,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 140,
+      "groupFeature": {
+        "titleNew": "超市优选-上",
+        "margin": 0,
+        "showHoleBar": false,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "超市优选-上",
+        "ratio": 1
+      },
+      "moduleType": 140,
+      "name": "超市优选-上",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 26
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/82b28045-7369-48a7-b1bc-e0a62b4b939d_360x360H",
+          "resource": "https://a.dmall.com/act/mZBnUxDX1pf0bd.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/f5f2f88a-407e-4a45-b55b-e1a29accc220_360x360H",
+          "resource": "https://a.dmall.com/act/zVmSWkpqR3Boy.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 2,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201911/8a13eacf-21f8-4506-b960-81ae188a562d_360x360H",
+          "resource": "https://a.dmall.com/act/ngeyp0Vcd82Hwi.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 3,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 140,
+      "groupFeature": {
+        "titleNew": "超市优选-下",
+        "margin": 0,
+        "showHoleBar": false,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "超市优选-下",
+        "ratio": 1
+      },
+      "moduleType": 140,
+      "name": "超市优选-下",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 27
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 5,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201909/9556062a-1990-4073-8178-c4d8b747f064_750H",
+          "resource": "https://a.dmall.com/act/mvp3HGXzYu1Bx.html?erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 119,
+      "groupFeature": {
+        "heightWideRatio": 0.27,
+        "titleNew": "新人异形拉新",
+        "margin": 0,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "新人异形拉新",
+        "ratio": 1
+      },
+      "moduleType": 119,
+      "name": "新人异形拉新",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 29
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "dataType": 2,
+          "imageUrl": "https://img.dmallcdn.com/mIndex/201908/c312e452-3e91-41eb-a7fb-15c335eb000a_750H",
+          "resource": "app://category?selectedBusinessCode=1&firstCategoryId=11967&secondCategoryId=11968&@animate=null&@jump=true&erpStoreId=13351&dmfrom=wx&from=wx&shareKey=1573699231232",
+          "sort": 1,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 146,
+      "groupFeature": {
+        "heightWideRatio": 0.24,
+        "titleNew": "楼层图-极致生鲜",
+        "margin": 5,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "楼层图-极致生鲜",
+        "ratio": 1
+      },
+      "moduleType": 146,
+      "name": "楼层图-极致生鲜",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 33
+    },
+    {
+      "dataList": [
+        {
+          "brandId": 0,
+          "data": {
+            "wareStatus": 0,
+            "skus": {
+              "img": "https://img.dmallcdn.com/20180910/d09cc050-e351-4d05-b089-504f61d79e1c_360x360H",
+              "shop": 13351,
+              "promotionInfo": "",
+              "title": "香蕉 约500g",
+              "skuId": 1000362089
+            },
+            "showPlayIcon": false,
+            "promotionPrice": 299,
+            "showTitle": false,
+            "sell": true,
+            "videoInfo": [],
+            "name": "香蕉 约500g",
+            "sku": 1000362089,
+            "skuType": 1,
+            "stock": 10,
+            "wareType": 0
+          },
+          "dataType": 3,
+          "imageUrl": "https://img.dmallcdn.com/20180910/d09cc050-e351-4d05-b089-504f61d79e1c_360x360H",
+          "resource": "1000362089",
+          "sort": 1,
+          "spId": 1000362089,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "skus": {
+              "img": "https://img.dmallcdn.com/20190523/dd80ebdd-fbaa-4bcc-9528-a43638dfc59f_360x360H",
+              "shop": 13351,
+              "promotionInfo": "",
+              "title": "丑桔 约500g",
+              "skuId": 1000376078
+            },
+            "showPlayIcon": false,
+            "promotionPrice": 458,
+            "sell": true,
+            "videoInfo": [],
+            "skuType": 1,
+            "wareStatus": 0,
+            "price": 499,
+            "showTitle": false,
+            "name": "丑桔 约500g",
+            "sku": 1000376078,
+            "stock": 10,
+            "wareType": 0
+          },
+          "dataType": 3,
+          "imageUrl": "https://img.dmallcdn.com/20190523/dd80ebdd-fbaa-4bcc-9528-a43638dfc59f_360x360H",
+          "resource": "1000376078",
+          "sort": 2,
+          "spId": 1000376078,
+          "storeId": 13351,
+          "venderId": 60
+        },
+        {
+          "brandId": 0,
+          "data": {
+            "wareStatus": 0,
+            "skus": {
+              "img": "https://img.dmallcdn.com/20180910/2537a01d-c4bd-4249-b5a1-be22744ddb8a_360x360H",
+              "shop": 13351,
+              "promotionInfo": "",
+              "title": "冬枣 约500g",
+              "skuId": 1000362108
+            },
+            "showPlayIcon": false,
+            "promotionPrice": 499,
+            "price": 599,
+            "showTitle": false,
+            "sell": true,
+            "videoInfo": [],
+            "name": "冬枣 约500g",
+            "sku": 1000362108,
+            "skuType": 1,
+            "stock": 10
+          },
+          "dataType": 3,
+          "imageUrl": "https://img.dmallcdn.com/20180910/2537a01d-c4bd-4249-b5a1-be22744ddb8a_360x360H",
+          "resource": "1000362108",
+          "sort": 3,
+          "spId": 1000362108,
+          "storeId": 13351,
+          "venderId": 60
+        }
+      ],
+      "displayType": 128,
+      "groupFeature": {
+        "titleNew": "楼层单品-活色生鲜-单品水果",
+        "margin": 2,
+        "subTitle": "",
+        "showTitle": false,
+        "title": "楼层单品-活色生鲜-单品水果",
+        "ratio": 1
+      },
+      "moduleType": 128,
+      "name": "楼层单品-活色生鲜-单品水果",
+      "showBgImg": false,
+      "showName": false,
+      "sort": 34
+    }
+  ]
+}

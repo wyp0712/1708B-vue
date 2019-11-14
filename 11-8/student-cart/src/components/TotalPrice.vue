@@ -1,13 +1,26 @@
 <template>
   <div class="total-price">
-     总价组件： {{total}}
+     总价组件： {{priceCount}}
   </div>
 </template>
 <script>
+import Bus from '../eventBus/index'
+
 export default {
   props: {
     total: Number
-  }
+  },
+  data() {
+    return {
+      priceCount: 0
+    }
+  },
+  created() {
+    Bus.$on('toAppVue', (res) => {
+      this.priceCount = res
+      console.log(res, '我在totalPrice组件中')
+    })
+  },
 }
 </script>
 <style lang="scss">

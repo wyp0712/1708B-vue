@@ -1,6 +1,6 @@
 
-// const Mock = require('mockjs')
-import Mock from 'mockjs'
+const Mock = require('mockjs')
+// import Mock from 'mockjs'
 const CartData = []
 
 for(let i = 0; i < 10; i++) {
@@ -12,10 +12,10 @@ for(let i = 0; i < 10; i++) {
      price: 100
   })
 }
-export default { CartData }
-// module.exports = {
-//   CartData
-// }
+// export default { CartData }
+module.exports = {
+  CartData
+}
 
 /**
  *  

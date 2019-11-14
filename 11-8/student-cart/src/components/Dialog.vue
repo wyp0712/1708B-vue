@@ -2,12 +2,17 @@
   <div class="dialog-box">
      <div class="mask"></div>
      <div class="tip">
-        <button @click="bindSureEvent">确定</button>
-        <button @click="bindCloseEvent">取消</button>
+     
+       <slot name="btn"></slot>
+       <slot name="btn2"></slot>
+
+        <!-- <button @click="bindSureEvent">确定</button>
+        <button @click="bindCloseEvent">取消</button> -->
      </div>
   </div>
 </template>
 <script>
+import Bus from '../eventBus/index'
 export default {
   methods: { // 子父传参数
     bindSureEvent() {

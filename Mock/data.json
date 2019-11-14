@@ -1,0 +1,320 @@
+[
+  {
+    "entries": [
+      {
+        "activity_id": 10016665,
+        "activity_ids": [
+          10016665
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133249,
+        "image_hash": "7d8a867c870b22bc74c87c348b75528djpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10016665&target=%7B%22delivery_mode%22%3A%5B%5D%2C%22category_schema%22%3A%7B%22complex_category_ids%22%3A%5B209%2C212%2C214%2C266%2C267%2C268%2C269%2C354%2C362%2C370%2C378%2C386%2C394%2C402%2C410%2C418%2C426%2C434%2C442%2C450%2C458%2C466%2C474%2C482%2C490%2C498%2C746%2C754%2C762%2C770%2C778%2C786%2C794%2C802%2C810%2C818%2C826%2C834%2C842%2C850%2C858%2C866%2C874%2C882%2C890%2C898%2C906%2C914%2C922%2C930%2C938%2C946%2C954%2C221%2C222%2C223%2C224%2C225%2C226%2C227%2C228%2C232%2C263%2C506%2C514%2C522%2C530%2C538%2C546%2C554%2C562%2C570%2C578%2C586%2C594%2C602%2C610%2C618%2C626%2C634%2C642%2C650%2C658%2C666%2C674%2C682%2C690%2C698%2C706%2C218%2C234%2C236%2C962%2C970%2C978%2C986%2C994%2C1002%2C1010%2C1018%2C1026%2C1034%2C240%2C241%2C242%2C249%2C250%2C714%2C722%2C730%2C738%2C346%2C1042%2C1050%2C1058%2C1066%2C1074%2C1082%2C1090%2C1098%2C1106%2C1114%2C1122%2C1130%2C1138%2C1146%2C1154%2C1162%2C1170%2C1178%2C1186%2C1194%2C1202%2C1210%2C1218%2C1226%2C1234%2C1250%2C1258%2C1266%2C1274%2C1282%2C1290%2C1298%2C1306%2C1314%2C1322%2C1330%2C1338%2C1346%2C1354%2C1362%5D%7D%2C%22restaurant_category_id%22%3A%5B209%2C212%2C214%2C266%2C267%2C268%2C269%2C354%2C362%2C370%2C378%2C386%2C394%2C402%2C410%2C418%2C426%2C434%2C442%2C450%2C458%2C466%2C474%2C482%2C490%2C498%2C746%2C754%2C762%2C770%2C778%2C786%2C794%2C802%2C810%2C818%2C826%2C834%2C842%2C850%2C858%2C866%2C874%2C882%2C890%2C898%2C906%2C914%2C922%2C930%2C938%2C946%2C954%2C221%2C222%2C223%2C224%2C225%2C226%2C227%2C228%2C232%2C263%2C506%2C514%2C522%2C530%2C538%2C546%2C554%2C562%2C570%2C578%2C586%2C594%2C602%2C610%2C618%2C626%2C634%2C642%2C650%2C658%2C666%2C674%2C682%2C690%2C698%2C706%2C218%2C234%2C236%2C962%2C970%2C978%2C986%2C994%2C1002%2C1010%2C1018%2C1026%2C1034%2C240%2C241%2C242%2C249%2C250%2C714%2C722%2C730%2C738%2C346%2C1042%2C1050%2C1058%2C1066%2C1074%2C1082%2C1090%2C1098%2C1106%2C1114%2C1122%2C1130%2C1138%2C1146%2C1154%2C1162%2C1170%2C1178%2C1186%2C1194%2C1202%2C1210%2C1218%2C1226%2C1234%2C1250%2C1258%2C1266%2C1274%2C1282%2C1290%2C1298%2C1306%2C1314%2C1322%2C1330%2C1338%2C1346%2C1354%2C1362%5D%7D&navType=2&color_type=1&target_name=%E7%BE%8E%E9%A3%9F&entry_id=20133249&page_type=2&business_flag=0&animation_type=1",
+        "name": "美食",
+        "name_color": "",
+        "position": 1,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10128913,
+        "activity_ids": [
+          10128913
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20325914,
+        "image_hash": "a7bb02bd836411c016935d258b300cfejpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10128913&target=%7B%22is_premium%22%3A1%2C%22specified_attributes%22%3A%5B8%5D%2C%22support_ids%22%3A%5B8%5D%7D&navType=0&color_type=1&target_name=%E5%A4%A7%E7%89%8C%E6%83%A0%E5%90%83&banner_type=0&entry_id=20325914&page_type=2&business_flag=0&animation_type=1",
+        "name": "大牌惠吃",
+        "position": 2,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10765387,
+        "activity_ids": [
+          10765387
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133169,
+        "image_hash": "c7e76a23eb90dada42528bc41499d6f8jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://offline?navColor=&title=&navType=0&target_name=&pluginId=bdwm.plugin.newretail&url=https%3A%2F%2Fh5-newretail.faas.ele.me%2Fstatic%2Fh5_newretail%2Fpages%2Fchannel.html%3Fchannel%3Dsupermarket&animation_type=1&pageName=channel&pageData=%7B%22channel%22%3A%22supermarket%22%7D",
+        "name": "商超便利",
+        "name_color": "",
+        "position": 3,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10018873,
+        "activity_ids": [
+          10018873
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133017,
+        "image_hash": "0d0dd7c960f08cdc756b1d3ad54978fdjpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10018873&target=%7B%22delivery_mode%22%3A%5B%5D%2C%22category_schema%22%3A%7B%22complex_category_ids%22%3A%5B245%5D%7D%2C%22restaurant_category_id%22%3A%5B245%5D%7D&navType=0&color_type=1&target_name=%E6%9E%9C%E8%94%AC%E7%94%9F%E9%B2%9C&entry_id=20133017&page_type=1&business_flag=0&animation_type=1",
+        "name": "水果",
+        "name_color": "",
+        "position": 4,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10765379,
+        "activity_ids": [
+          10765379
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133185,
+        "image_hash": "70aaf108e256ebc9f02db599592ae655jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://offline?navColor=&title=&navType=0&target_name=&pluginId=bdwm.plugin.newretail&url=https%3A%2F%2Fh5-newretail.faas.ele.me%2Fstatic%2Fh5_newretail%2Fpages%2Fchannel.html%3Fchannel%3Dhealth&animation_type=1&pageName=channel&pageData=%7B%22channel%22%3A%22health%22%7D",
+        "name": "医药健康",
+        "name_color": "",
+        "position": 5,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10765371,
+        "activity_ids": [
+          10765371
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133193,
+        "image_hash": "301c888acb2c8ba9e0c813f36ec9e90ajpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://offline?navColor=&title=&navType=0&target_name=&pluginId=bdwm.plugin.newretail&url=https%3A%2F%2Fh5-newretail.faas.ele.me%2Fstatic%2Fh5_newretail%2Fpages%2Fchannel.html%3Fchannel%3Dflower&animation_type=1&pageName=channel&pageData=%7B%22channel%22%3A%22flower%22%7D",
+        "name": "浪漫鲜花",
+        "name_color": "",
+        "position": 6,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10765363,
+        "activity_ids": [
+          10765363
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133041,
+        "image_hash": "e58bceb19258e3264e64fb856722c3c1jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://web?navColor=&target_name=&url=https%3A%2F%2Fpt.ele.me%2Fpaotui%2Fh5%2Fh5index%3Factivity_ids%3D%255B10765363%255D%23pageData%3D%257B%2522entrance%2522%253A%2522yinhangqudao%2522%257D&title=&navType=0&animation_type=1",
+        "name": "跑腿代购",
+        "name_color": "",
+        "position": 7,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 11030611,
+        "activity_ids": [
+          11030611
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133065,
+        "image_hash": "b7f432619fb21a40b05cd25d11eca02djpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://web?navColor=&target_name=&url=https%3A%2F%2Ftb.ele.me%2Fwow%2Fzele%2Fact%2Fhanbaopisabang%3Fwh_biz%3Dtm%26activity_ids%3D%255B11030611%255D&title=&navType=0&animation_type=1",
+        "name": "汉堡披萨",
+        "name_color": "",
+        "position": 8,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10765355,
+        "activity_ids": [
+          10765355
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20159899,
+        "image_hash": "c21e42997b86b232161a5a16ab813ae8jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://web?navColor=&target_name=&url=https%3A%2F%2Fh5.ele.me%2Fnewretail%2Fp%2Fchannel%2F%3Factivity_ids%3D%255B10765355%255D%26channel%3Dkitchen&title=&navType=0&animation_type=1",
+        "name": "厨房生鲜",
+        "name_color": "",
+        "position": 9,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10016401,
+        "activity_ids": [
+          10016401
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20137617,
+        "image_hash": "235696aa5cf9820adada9b11a3d14bf5jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10016401&target=%7B%22delivery_mode%22%3A%5B%5D%2C%22category_schema%22%3A%7B%22complex_category_ids%22%3A%5B240%2C241%2C242%5D%7D%2C%22restaurant_category_id%22%3A%5B240%2C241%2C242%5D%7D&navType=0&color_type=1&target_name=%E7%94%9C%E5%93%81%E9%A5%AE%E5%93%81&entry_id=20137617&page_type=1&business_flag=0&animation_type=1",
+        "name": "甜品饮品",
+        "name_color": "",
+        "position": 10,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10121817,
+        "activity_ids": [
+          10121817
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133033,
+        "image_hash": "01a314b6da88ab6c7ae9828f91652d40jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10121817&target=%7B%22delivery_mode%22%3A%5B%5D%2C%22category_schema%22%3A%7B%22complex_category_ids%22%3A%5B209%2C266%2C267%2C268%2C269%2C426%2C434%2C442%2C450%2C466%2C810%2C818%2C826%2C834%2C842%2C850%2C882%2C890%2C898%2C946%2C1058%2C1066%2C1122%2C1138%2C1146%2C1178%5D%7D%2C%22restaurant_category_id%22%3A%5B209%2C266%2C267%2C268%2C269%2C426%2C434%2C442%2C450%2C466%2C810%2C818%2C826%2C834%2C842%2C850%2C882%2C890%2C898%2C946%2C1058%2C1066%2C1122%2C1138%2C1146%2C1178%5D%7D&navType=0&color_type=1&target_name=%E9%80%9F%E9%A3%9F%E7%AE%80%E9%A4%90&entry_id=20133033&page_type=2&business_flag=0&animation_type=1",
+        "name": "速食简餐",
+        "name_color": "",
+        "position": 13,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10021705,
+        "activity_ids": [
+          10021705
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133209,
+        "image_hash": "7d66f2631288a44ec177204e05cbcb93jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10021705&target=%7B%22delivery_mode%22%3A%5B%5D%2C%22category_schema%22%3A%7B%22complex_category_ids%22%3A%5B234%2C235%2C237%5D%7D%2C%22restaurant_category_id%22%3A%5B234%2C235%2C237%5D%7D&navType=0&color_type=1&target_name=%E5%9C%B0%E6%96%B9%E5%B0%8F%E5%90%83&entry_id=20133209&page_type=1&business_flag=0&animation_type=1",
+        "name": "地方小吃",
+        "name_color": "",
+        "position": 14,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10128913,
+        "activity_ids": [
+          10128913
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133105,
+        "image_hash": "a7bb02bd836411c016935d258b300cfejpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10128913&target=%7B%22is_premium%22%3A1%2C%22specified_attributes%22%3A%5B8%5D%2C%22support_ids%22%3A%5B8%5D%7D&navType=0&color_type=1&target_name=%E5%A4%A7%E7%89%8C%E6%83%A0%E5%90%83&banner_type=0&entry_id=20133105&page_type=2&business_flag=0&animation_type=1",
+        "name": "大牌惠吃",
+        "name_color": "",
+        "position": 15,
+        "sub_entries": []
+      },
+      {
+        "activity_id": 10121817,
+        "activity_ids": [
+          10121817
+        ],
+        "background": "",
+        "background_color": "FF5D2F",
+        "business_flag": 0,
+        "description": "",
+        "id": 20133121,
+        "image_hash": "d387bddb07503aea4b711236348e2632jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://restaurants?search_source=1&activity_id=10121817&target=%7B%22delivery_mode%22%3A%5B%5D%2C%22category_schema%22%3A%7B%22complex_category_ids%22%3A%5B209%2C266%2C267%2C268%2C269%2C426%2C434%2C442%2C450%2C466%2C810%2C818%2C826%2C834%2C842%2C850%2C882%2C890%2C898%2C946%2C1058%2C1066%2C1122%2C1138%2C1146%2C1178%5D%7D%2C%22restaurant_category_id%22%3A%5B209%2C266%2C267%2C268%2C269%2C426%2C434%2C442%2C450%2C466%2C810%2C818%2C826%2C834%2C842%2C850%2C882%2C890%2C898%2C946%2C1058%2C1066%2C1122%2C1138%2C1146%2C1178%5D%7D&navType=0&color_type=1&target_name=%E9%80%9F%E9%A3%9F%E7%AE%80%E9%A4%90&entry_id=20133121&page_type=2&business_flag=0&animation_type=1",
+        "name": "速食简餐",
+        "name_color": "",
+        "position": 18,
+        "sub_entries": []
+      }
+    ],
+    "group_name": "main",
+    "group_type": 1,
+    "rank_id": "30a072370b4c44b49d16b38e76c756e9",
+    "ranking_weight": 100,
+    "template": "main_template"
+  },
+  {
+    "entries": [
+      {
+        "activity_id": 10773698,
+        "activity_ids": [
+          10773698
+        ],
+        "background": "a7571c5bfd8f40c1e88ab26fad1c6873jpeg",
+        "background_color": "FF5D2F",
+        "business_flag": 21,
+        "description": "",
+        "id": 20138481,
+        "image_hash": "80e4dd212d831becab6e3ebd484c0941jpeg",
+        "is_in_serving": true,
+        "is_need_bind_taobao": true,
+        "is_personalized": false,
+        "link": "eleme://web?navColor=&target_name=&url=https%3A%2F%2Fh5.ele.me%2Fsupervip%3Factivity_ids%3D%255B10773698%255D&title=&navType=0&animation_type=1",
+        "more": "{\"bonus\":2.3,\"bonus_title\":{\"text\":\"2.3个奖励金\",\"highlight\":\"2.3\"},\"total_hongbao\":55.0,\"title\":{\"text\":\"已为我节省55元\",\"highlight\":\"55\"}}",
+        "name": "超级会员",
+        "name_color": "",
+        "position": 1,
+        "sub_entries": []
+      }
+    ],
+    "group_name": "svip",
+    "group_type": 22,
+    "rank_id": "c246ab49949e4f45b478fd18a741fbce",
+    "ranking_weight": 91,
+    "template": "svip_template"
+  }
+]
