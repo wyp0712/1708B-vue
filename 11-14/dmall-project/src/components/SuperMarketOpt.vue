@@ -1,5 +1,6 @@
 <template>
+  <!-- 超市优选 -->
   <div>
-    vip
+    
   </div>
 </template>
