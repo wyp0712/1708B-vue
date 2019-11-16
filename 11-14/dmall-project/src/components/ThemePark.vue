@@ -2,18 +2,18 @@
   <div>
 
     <div class="theme-park-img" v-if="themeParkData.sort === 18">
-      <img :src="themeParkData.dataList[0].imageUrl" alt="">
+      <img v-lazy="themeParkData.dataList[0].imageUrl" alt="">
     </div>
     <div class="theme-park-box" v-if="themeParkData.sort === 19">
       <div class="left">
-        <img :src="themeParkData.dataList[0].imageUrl" alt="">
+        <img v-lazy="themeParkData.dataList[0].imageUrl" alt="">
       </div>
       <div class="right">
-        <img :src="themeParkData.dataList[1].imageUrl" alt=""><img :src="themeParkData.dataList[2].imageUrl" alt="">
+        <img v-lazy="themeParkData.dataList[1].imageUrl" alt=""><img :src="themeParkData.dataList[2].imageUrl" alt="">
       </div>
     </div>
     <div class="theme-park-recommend" v-if="themeParkData.sort === 20">
-      <img :src="themeParkData.dataList[0].imageUrl" alt="">
+      <img v-lazy="themeParkData.dataList[0].imageUrl" alt="">
     </div>
     
   </div>

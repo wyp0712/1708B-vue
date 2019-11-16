@@ -1,7 +1,7 @@
 <template>
   <swiper :swiperOption="swiperOption">
     <swiper-slide v-for="item in swiperData" :key="item.sort">
-       <img :src="item.imageUrl" alt=""> 
+       <img v-lazy="item.imageUrl" alt=""> 
     </swiper-slide>
   </swiper>
 </template>

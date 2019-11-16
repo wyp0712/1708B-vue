@@ -1,7 +1,7 @@
 <template>
   <div class="icon-box">
     <ul class="icon-item" v-for="item in iconData" :key="item.sort">
-      <li> <img :src="item.imageUrl" alt=""> </li>
+      <li> <img v-lazy="item.imageUrl" alt=""> </li>
       <li>{{item.data.title}}</li>
     </ul>
   </div>
