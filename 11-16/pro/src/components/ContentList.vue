@@ -39,8 +39,10 @@ export default {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+
     .box {
       width: 48%;
+      transition: all 1s;
       height: 200px;
       border:1px solid black;
       text-align: center;
@@ -53,7 +55,9 @@ export default {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+
     .box {
+              transition: all 1s;
       width: 98%;
       margin-left: 1%;
       height: 200px;
